@@ -19,21 +19,20 @@ The app allows users to browse products, explore categories, view offers, and co
 
 ## 📸 Screenshots
 
-<div align="center">
-  
+### 🏠 Home & Categories
 | Home Screen | Categories | Product Details |
 |---|---|---|
-| ![Screenshot 1](assets/image/readme/1.png) | ![Screenshot 2](assets/image/readme/2.png) | ![Screenshot 3](assets/image/readme/3.png) |
+| ![](assets/image/readme/1.png) | ![](assets/image/readme/2.png) | ![](assets/image/readme/3.png) |
 
+### 🛒 Shopping & Checkout
 | Shopping Cart | Checkout | Order Tracking |
 |---|---|---|
-| ![Screenshot 4](assets/image/readme/4.png) | ![Screenshot 5](assets/image/readme/5.png) | ![Screenshot 6](assets/image/readme/6.png) |
+| ![](assets/image/readme/4.png) | ![](assets/image/readme/5.png) | ![](assets/image/readme/6.png) |
 
+### ⭐ Featured & Search
 | Featured Products | Search |
 |---|---|
-| ![Screenshot 7](assets/image/readme/7.png) | ![Screenshot 8](assets/image/readme/8.png) |
-
-</div>
+| ![](assets/image/readme/7.png) | ![](assets/image/readme/8.png) |
 
 ---
 
