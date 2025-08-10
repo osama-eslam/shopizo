@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:fl_chart/fl_chart.dart';
-import 'package:get/get.dart'; // لازم تضيف هذه للاستعمال
+import 'package:get/get.dart';
 import 'package:image_picker_demo/ui/widgets/line_chart_widget.dart';
 import 'package:image_picker_demo/ui/widgets/stat_card.dart';
 import '../../../utils/data_generator.dart';
@@ -100,7 +100,7 @@ class _StatisticsPageState extends State<StatisticsPage>
 
     return Scaffold(
       appBar: AppBar(
-        title: Text("store_statistics".tr), // استخدم tr
+        title: Text("store_statistics".tr),
         centerTitle: true,
         backgroundColor: Colors.transparent,
         elevation: 0,
@@ -130,7 +130,7 @@ class _StatisticsPageState extends State<StatisticsPage>
                                     MainAxisAlignment.spaceBetween,
                                 children: [
                                   StatCard(
-                                    title: "sales".tr, // ترجم
+                                    title: "sales".tr,
                                     value: formatNumber(salesValue),
                                     color: const Color(0xFF4A90E2),
                                     icon: Icons.shopping_cart,
@@ -170,7 +170,7 @@ class _StatisticsPageState extends State<StatisticsPage>
                               ElevatedButton.icon(
                                 onPressed: _refreshData,
                                 icon: const Icon(Icons.refresh),
-                                label: Text("refresh_data".tr), // ترجم
+                                label: Text("refresh_data".tr),
                                 style: ElevatedButton.styleFrom(
                                   padding: const EdgeInsets.symmetric(
                                     horizontal: 24,

@@ -235,7 +235,7 @@ class AppTranslations extends Translations {
       'delivery_success_message':
           'تم توصيل الطلب في الوقت المحدد بنجاح. شكرًا لاستخدامك خدمتنا!',
       'full_screen_map': 'الخريطة كاملة الشاشة',
-      'quantity_x': 'x', // يستخدم بنفس الشكل
+      'quantity_x': 'x',
     },
   };
 }

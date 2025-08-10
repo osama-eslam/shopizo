@@ -4,7 +4,7 @@ import 'package:image_picker_demo/ui/pages/categories/category_products_page.dar
 import 'package:get/get.dart';
 
 class Category {
-  final String nameKey; // بدل النص، نخزن مفتاح الترجمة
+  final String nameKey;
   final String image;
   final String mainCategoryKey;
   final VoidCallback? onTap;
