@@ -1,24 +1,42 @@
-# 🏆 **Shopizo – The Ultimate E-Commerce Experience**
+<!-- Banner -->
+<p align="center">
+  <img src="assets/image/readme/banner.png" alt="Shopizo Banner" width="100%" />
+</p>
 
-**Shopizo** is a next-generation e-commerce mobile application built with **Flutter**.  
-It offers a **sleek design**, **seamless user experience**, and **multi-language support**, enabling users worldwide to shop smarter, faster, and easier.  
-With Shopizo, you can explore products, discover offers, manage your orders, and track shipments – all in one app.
-
----
-
-## ✨ **Why Choose Shopizo?**
-
-- 🎯 **Professional UI/UX** – Modern, clean, and user-friendly interface.
-- 🌍 **Multi-Language Support** – Breaking language barriers for global users.
-- 🛒 **Smart Shopping Cart** – Real-time price updates and quantity management.
-- 📦 **Order Management & Tracking** – Keep an eye on your purchases with ease.
-- ⭐ **Product Ratings & Best Sellers** – Make confident buying decisions.
-- 🔍 **Advanced Search** – Find exactly what you’re looking for in seconds.
-- 📱 **Fully Responsive** – Optimized for both smartphones and tablets.
+<h1 align="center">🏆 Shopizo – The Ultimate E-Commerce Experience</h1>
+<p align="center">
+  <b>Shop smarter. Shop faster. Shopizo.</b><br>
+  Sleek design • Smooth UX • Multi-language support
+</p>
 
 ---
 
-## 📸 **Screenshots**
+## 🚀 **Overview**
+
+**Shopizo** is a next-generation **e-commerce mobile app** built with **Flutter** 🐦.  
+It’s designed for speed, elegance, and global accessibility – letting users **explore products**, **discover offers**, **track orders**, and more, all in one place.
+
+<p align="center">
+  <img src="assets/image/readme/demo.gif" alt="Shopizo Demo" width="60%" />
+</p>
+
+---
+
+## ✨ **Key Features**
+
+| Feature | Description |
+|---------|-------------|
+| 🎯 **Modern UI/UX** | Clean, intuitive, and responsive design. |
+| 🌍 **Multi-Language** | Breaking language barriers for global users. |
+| 🛒 **Smart Cart** | Real-time price updates & quantity control. |
+| 📦 **Order Tracking** | Track shipments directly in the app. |
+| ⭐ **Ratings & Best Sellers** | Shop confidently with reviews & top picks. |
+| 🔍 **Advanced Search** | Find products in seconds. |
+| 📱 **Responsive** | Works perfectly on phones & tablets. |
+
+---
+
+## 🖼 **Screenshots**
 
 <div align="center">
 
@@ -31,17 +49,20 @@ With Shopizo, you can explore products, discover offers, manage your orders, and
 
 ---
 
-## 🛠️ **Tech Stack**
+## 🛠 **Tech Stack**
 
-- **Flutter** 🐦 – Cross-platform UI toolkit.
-- **Dart** 🎯 – Modern, efficient programming language.
-- **Provider / BLoC** – Reliable state management solutions.
-- **SharedPreferences** – Local storage for a smooth user experience.
-- **HTTP** – Easy and fast API integration.
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Provider-FFC107?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BLoC-0052CC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SharedPreferences-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTTP%20API-FF5722?style=for-the-badge" />
+</p>
 
 ---
 
-## 🚀 **Getting Started**
+## ⚡ **Getting Started**
 
 ```bash
 # 1️⃣ Install Flutter
@@ -50,7 +71,7 @@ https://docs.flutter.dev/get-started/install
 # 2️⃣ Clone the repository
 git clone https://github.com/osama-eslam/shopizo.git
 
-# 3️⃣ Navigate to the project directory
+# 3️⃣ Go to the project folder
 cd shopizo
 
 # 4️⃣ Install dependencies
