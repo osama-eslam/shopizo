@@ -1,6 +1,9 @@
 <!-- Banner -->
 <p align="center">
-  <img src="assets/image/readme/banner.gif" alt="Shopizo Banner" width="100%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.2);" />
+  <img src="assets/image/readme/banner.gif" 
+       alt="Shopizo Banner" 
+       width="180" 
+       style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.2);" />
 </p>
 
 <h1 align="center" style="font-size: 40px; background: linear-gradient(90deg, #ff8a00, #e52e71); -webkit-background-clip: text; color: transparent; font-weight: bold;">
@@ -20,7 +23,10 @@
 It’s designed for speed, elegance, and global accessibility – enabling users to **explore products**, **discover offers**, **track orders**, and more, all in one place.
 
 <p align="center">
-  <img src="assets/image/readme/demo.gif" alt="Shopizo Demo" width="70%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" />
+  <img src="assets/image/readme/demo.gif" 
+       alt="Shopizo Demo" 
+       width="200" 
+       style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" />
 </p>
 
 ---
