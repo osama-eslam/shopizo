@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="assets/image/readme/banner.gif" 
+  <img src="" 
        alt="Shopizo Banner" 
        width="180" 
        style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.2);" />
