@@ -1,28 +1,26 @@
-<!-- Banner -->
+<!-- Animated Banner -->
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=🏆%20Shopizo%20E-Commerce&fontAlign=50&fontAlignY=40&color=gradient&customColorList=0,2,3,5,20,30" alt="Shopizo Banner"/>
 </p>
 
-<h1 align="center" style="font-size: 40px; background: linear-gradient(90deg, #ff8a00, #e52e71); -webkit-background-clip: text; color: transparent; font-weight: bold;">
-🏆 Shopizo – The Ultimate E-Commerce Experience
+<h1 align="center" style="font-size: 38px; background: linear-gradient(90deg, #ff8a00, #e52e71); -webkit-background-clip: text; color: transparent; font-weight: bold;">
+  🚀 Shopizo – The Ultimate E-Commerce Experience
 </h1>
 
-<p align="center" style="font-size: 18px;">
+<p align="center">
   <b>Shop smarter. Shop faster. Shopizo.</b><br>
-  <span style="color: #888;">⚡ Sleek Design • Smooth UX • Multi-Language Support ⚡</span>
+  <img src="https://readme-typing-svg.herokuapp.com?color=e52e71&center=true&lines=⚡+Sleek+Design;⚡+Smooth+UX;🌍+Multi-Language+Support;🛒+Smart+Shopping" alt="Typing Animation"/>
 </p>
 
 ---
 
-## 🚀 Overview
+## 🌟 Overview
 
 **Shopizo** is a next-generation **e-commerce mobile app** built with **Flutter** 🐦.  
-It’s designed for speed, elegance, and global accessibility – enabling users to **explore products**, **discover offers**, **track orders**, and more, all in one place.
+It’s designed for **speed**, **elegance**, and **global accessibility** – enabling users to **explore products**, **discover offers**, **track orders**, and more, all in one place.
 
 <p align="center">
-  <img src="assets/image/readme/demo.gif" 
-       alt="Shopizo Demo" 
-       width="200" 
-       style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" />
+  <img src="assets/image/readme/demo.gif" width="250" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" />
 </p>
 
 ---
@@ -42,7 +40,7 @@ It’s designed for speed, elegance, and global accessibility – enabling users
 
 ## 🖼 Screenshots
 
-<div align="center" style="border: 2px solid #eee; border-radius: 10px; padding: 10px;">
+<div align="center" style="padding: 15px; background: rgba(0,0,0,0.03); border-radius: 15px;">
   
 | ![](assets/image/readme/1.png) | ![](assets/image/readme/2.png) | ![](assets/image/readme/3.png) |
 |---|---|---|
